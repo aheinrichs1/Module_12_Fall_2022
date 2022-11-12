@@ -2,7 +2,7 @@
 Practice for gathering data
 """
 import csv
-from Topic1.CountyDemos import CountyDemos
+from topic1.CountyDemos import CountyDemos
 
 
 with open('ExampleCSV.csv') as csv_file:
